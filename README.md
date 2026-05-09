@@ -12,8 +12,9 @@ Phase 1
 Create a MVC with:
   - a view to add a vehicle to the garage
   - store vehicle info to a db
+  - a view to show the vehicles in the garage
   - a view to add maintenance/service work done to that vehicle
   - store the work done to that specific vehicle to a db
-  - a view to show a serach of the work records or a history of the work records
+  - a view to show a search of the work records or a history of the work records for a specific vehicle
 
 Phase 2
