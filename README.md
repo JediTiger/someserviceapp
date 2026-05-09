@@ -1,7 +1,7 @@
 This is a proof of concept for me to see how I build this simple app to record the various maintenance and sevice work done to  vehicle(s)
 
 Basics:
-1 controller to manage read/write to a db
+1 controller to manage read/write to a db\n
 2 views to input a vehicle and work done to that vehicle
 1 view to show a history of work done to a vehicle
 
